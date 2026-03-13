@@ -3,3 +3,4 @@
 *.xlsb
 ~$*.xls*
 .ipynb_checkpoints/
+*.png
